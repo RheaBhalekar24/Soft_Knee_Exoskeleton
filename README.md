@@ -29,8 +29,8 @@ We have carried out tests to examine the force output with respect to the number
 # Force characteristics 
 The force characteristics show a linear behavior till attainment of a maximum force. The revolution at which the setup is constant for multiple iterations as demonstrated in
 the repeatability tests. 
-Further the force decreases and we observe a sudden increase in force. That is attributed to double coiling. 
-One such example 
+Further the force decreases and we observe a sudden increase in force. That is attributed to double coiling. One such example 
+
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/d79fb015-08ec-4ee6-81a1-5a1e1cddc0f8" />
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/4b7ea209-14ee-43f8-978d-6cc205905c79" />
 
