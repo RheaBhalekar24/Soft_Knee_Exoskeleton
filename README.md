@@ -24,7 +24,7 @@ The elastic material stores potential energy, which can be strategically release
 By absorbing shock and dampening vibrations, the elastic element reduces wear and tear on the motor and gearhead, increasing the overall lifespan of the rigid components.
 
 We have carried out tests to examine the force output with respect to the number of turns of actuation and number of strings using our setup
-<img width="1216" height="1128" alt="image" src="https://github.com/user-attachments/assets/1fda846f-a0f1-48f0-9c97-c418293f5939" />
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/1fda846f-a0f1-48f0-9c97-c418293f5939" />
 
 
 
