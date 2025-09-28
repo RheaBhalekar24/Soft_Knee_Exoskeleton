@@ -26,5 +26,16 @@ By absorbing shock and dampening vibrations, the elastic element reduces wear an
 We have carried out tests to examine the force output with respect to the number of turns of actuation and number of strings using our setup
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/1fda846f-a0f1-48f0-9c97-c418293f5939" />
 
+# Force characteristics 
+The force characteristics show a linear behavior till attainment of a maximum force. The revolution at which the setup is constant for multiple iterations as demonstrated in
+the repeatability tests. 
+Further the force decreases and we observe a sudden increase in force. That is attributed to double coiling. 
+One such example 
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/d79fb015-08ec-4ee6-81a1-5a1e1cddc0f8" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/4b7ea209-14ee-43f8-978d-6cc205905c79" />
+
+
+
+
 
 
